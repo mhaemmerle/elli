@@ -83,7 +83,7 @@ $: erl -pa ebin
 ## Callback module
 
 There is an [example callback module](https://github.com/knutin/elli/blob/master/src/elli_example_callback.erl)
-distributed with elli.
+distributed with elli that can be used and adopted right away.
 
 A minimal callback module would look like this:
 
